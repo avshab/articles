@@ -5,6 +5,6 @@
 <instance-profile id="hi" name="Help Instance"
                  start-page="MainPage.md">
 
-    <toc-element topic="About.md"/>
     <toc-element topic="MainPage.md"/>
+    <toc-element topic="About.md"/>
 </instance-profile>
